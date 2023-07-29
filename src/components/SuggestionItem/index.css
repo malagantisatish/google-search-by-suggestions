@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.suggestions-container {
+  display: flex;
+  justify-content: space-between;
+  width: 50vw;
+}
+
+.suggestion {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  padding: 10px;
+}
